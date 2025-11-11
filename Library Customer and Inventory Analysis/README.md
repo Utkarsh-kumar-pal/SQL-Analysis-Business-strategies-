@@ -1,6 +1,11 @@
-# Library Customer and Inventory Analysis Report
+<div align="center">
+
+# 📚 Library Customer and Inventory Analysis Report  
 
 ![Library Analytics Dashboard Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRvaWRuOGdqYmRidnkzbzdpZTlzNWhyeGlzaHZ1ZnFpNmpyZHA2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fsXOS3oBboiYf6fSsY/giphy.gif)
+
+</div>
+
 
 ## Executive Summary
 
